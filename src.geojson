@@ -21,24 +21,6 @@
       }
     },
     {
-      "id": 2,
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.912890001250654,
-          52.38100000414671
-        ]
-      },
-      "properties": {
-        "title": "IJcamera Oost",
-        "video": "hls",
-        "src": "https://5f9796575af00.streamlock.net/live/amsterdam1.stream/playlist.m3u8",
-        "url": "https://www.webcam-amsterdam.nl/pages/cameras/ijcamera-oost.php",
-        "rotation": "96"
-      }
-    },
-    {
       "id": 3,
       "type": "Feature",
       "geometry": {
@@ -3199,23 +3181,6 @@
         "title": "Havendienst Amsterdam",
         "embed": "https://live.netcamviewer.nl/_/812",
         "rotation": "88"
-      }
-    },
-    {
-      "id": 298,
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.911963702628861,
-          52.380922510613104
-        ]
-      },
-      "properties": {
-        "title": "IJcamera West",
-        "video": "hls",
-        "src": "https://5f9796575af00.streamlock.net/live/amsterdam2.stream/playlist.m3u8",
-        "rotation": "225"
       }
     },
     {
@@ -6773,23 +6738,6 @@
       }
     },
     {
-      "id": 537,
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.5804736570373095,
-          51.917621188202745
-        ]
-      },
-      "properties": {
-        "title": "GKR_02",
-        "src": "https://stream.inmoves.nl/rtplive/GKR_02.stream/playlist.m3u8",
-        "video": "hls",
-        "rotation": "246"
-      }
-    },
-    {
       "id": 538,
       "type": "Feature",
       "geometry": {
@@ -6854,7 +6802,7 @@
         "embed": "https://live.netcamviewer.nl/_/777",
         "rotation": "300",
         "title": "Hotel de Blanke Top",
-        "src": "https://live.netcamviewer.nl/_/777"
+        "url": "https://live.netcamviewer.nl/_/777"
       }
     },
     {
@@ -6870,7 +6818,7 @@
         "embed": "https://stream.inmoves.nl/194/embed",
         "rotation": "50",
         "title": "Gaasperdammertunnel Zuid",
-        "src": "https://stream.inmoves.nl/camera/stream/cam_194"
+        "url": "https://stream.inmoves.nl/camera/stream/cam_194"
       }
     },
     {
@@ -6886,7 +6834,7 @@
         "embed": "https://live.netcamviewer.nl/Timestar-Media-Camera-1/1380",
         "rotation": "330",
         "title": "Singelgracht ~340 Amsterdam",
-        "src": "https://stream.inmoves.nl/camera/stream/cam_194"
+        "url": "https://stream.inmoves.nl/camera/stream/cam_194"
       }
     },
     {
@@ -6902,7 +6850,7 @@
         "embed": "https://live.netcamviewer.nl/Project-Singelgrachtgarage-Marnix/1130",
         "rotation": "20",
         "title": "Singelgrachtgarage Amsterdam",
-        "src": "https://buitensingel-amsterdam.nl/videostream-singelgracht/"
+        "url": "https://buitensingel-amsterdam.nl/videostream-singelgracht/"
       }
     }
   ]

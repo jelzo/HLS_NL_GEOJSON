@@ -6886,8 +6886,40 @@
       "properties": {
         "embed": "https://stream.inmoves.nl/194/embed",
         "rotation": "50",
-        "title": "Gaasperdammertunnel Noord",
+        "title": "Gaasperdammertunnel Zuid",
         "src": "https://stream.inmoves.nl/camera/stream/cam_194"
+      }
+    },
+    {
+      "id": 543,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88844,52.37011
+        ]
+      },
+      "properties": {
+        "embed": "https://live.netcamviewer.nl/Timestar-Media-Camera-1/1380",
+        "rotation": "330",
+        "title": "Singelgracht ~340 Amsterdam",
+        "src": "https://stream.inmoves.nl/camera/stream/cam_194"
+      }
+    },
+    {
+      "id": 544,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87586,52.37482
+        ]
+      },
+      "properties": {
+        "embed": "https://live.netcamviewer.nl/Project-Singelgrachtgarage-Marnix/1130",
+        "rotation": "330",
+        "title": "Singelgrachtgarage Amsterdam",
+        "src": "https://buitensingel-amsterdam.nl/videostream-singelgracht/"
       }
     }
   ]

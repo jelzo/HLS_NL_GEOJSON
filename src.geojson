@@ -944,7 +944,8 @@
       "properties": {
         "title": "Beachclub Zeezicht",
         "rotation": "335",
-        "url": "https://g0.ipcamlive.com/player/player.php?alias=zeezichtpierwebcam&skin=white"
+        "embed": "https://g0.ipcamlive.com/player/player.php?alias=zeezichtpierwebcam&autoplay=1"
+        "url": "https://g0.ipcamlive.com/player/player.php?alias=zeezichtpierwebcam"
       }
     },
     {
@@ -5492,7 +5493,7 @@
       },
       "properties": {
         "title": "ProRail Spoorzone Groningen",
-        "embed": "https://www.youtube.com/embed/6wUeSro1bG4?autoplay=1&mute=1",
+        "embed": "https://live.netcamviewer.nl/_/1091",
         "url": "https://www.youtube.com/watch?v=6wUeSro1bG4",
         "rotation": "244"
       }
@@ -6855,6 +6856,22 @@
         "rotation": "300",
         "title": "Markermeer Webcam 4K",
         "src": "https://www.benlankamp.nl/stream/index.m3u8"
+      }
+    },
+    {
+      "id": 541,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.39813,51.38137
+        ]
+      },
+      "properties": {
+        "embed": "https://live.netcamviewer.nl/_/777",
+        "rotation": "300",
+        "title": "Hotel de Blanke Top",
+        "src": "https://live.netcamviewer.nl/_/777"
       }
     }
   ]

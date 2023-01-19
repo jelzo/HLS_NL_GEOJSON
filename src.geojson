@@ -944,7 +944,7 @@
       "properties": {
         "title": "Beachclub Zeezicht",
         "rotation": "335",
-        "embed": "https://g0.ipcamlive.com/player/player.php?alias=zeezichtpierwebcam&autoplay=1"
+        "embed": "https://g0.ipcamlive.com/player/player.php?alias=zeezichtpierwebcam&autoplay=1",
         "url": "https://g0.ipcamlive.com/player/player.php?alias=zeezichtpierwebcam"
       }
     },

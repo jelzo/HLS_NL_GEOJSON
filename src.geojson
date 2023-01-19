@@ -6873,6 +6873,22 @@
         "title": "Hotel de Blanke Top",
         "src": "https://live.netcamviewer.nl/_/777"
       }
+    },
+    {
+      "id": 542,
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94448,52.29801
+        ]
+      },
+      "properties": {
+        "embed": "https://stream.inmoves.nl/194/embed",
+        "rotation": "50",
+        "title": "Gaasperdammertunnel Noord",
+        "src": "https://stream.inmoves.nl/camera/stream/cam_194"
+      }
     }
   ]
 }
